@@ -1,5 +1,5 @@
 let qty=1;
-const price=5.99;
+const price=9.99;
 const qtyEl=document.getElementById("qty");
 const count=document.getElementById("cartCount");
 const total=document.getElementById("total");
